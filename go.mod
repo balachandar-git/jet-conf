@@ -1,4 +1,4 @@
-module github.com/micro/go-config
+module github.com/jet-config
 
 require (
 	cloud.google.com/go v0.37.4 // indirect
