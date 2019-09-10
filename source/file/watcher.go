@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type watcher struct {

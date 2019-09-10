@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type urlSource struct {

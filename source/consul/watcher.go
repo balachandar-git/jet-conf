@@ -6,8 +6,8 @@ import (
 
 	"github.com/hashicorp/consul/api"
 	"github.com/hashicorp/consul/api/watch"
-	"github.com/jet-config/encoder"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type watcher struct {

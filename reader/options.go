@@ -1,12 +1,12 @@
 package reader
 
 import (
-	"github.com/jet-config/encoder"
-	"github.com/jet-config/encoder/hcl"
-	"github.com/jet-config/encoder/json"
-	"github.com/jet-config/encoder/toml"
-	"github.com/jet-config/encoder/xml"
-	"github.com/jet-config/encoder/yaml"
+	"github.com/balachandar-git/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder/hcl"
+	"github.com/balachandar-git/jet-config/encoder/json"
+	"github.com/balachandar-git/jet-config/encoder/toml"
+	"github.com/balachandar-git/jet-config/encoder/xml"
+	"github.com/balachandar-git/jet-config/encoder/yaml"
 )
 
 type Options struct {

@@ -1,4 +1,4 @@
-module github.com/jet-config
+module github.com/balachandar-git/jet-config
 
 require (
 	cloud.google.com/go v0.37.4 // indirect

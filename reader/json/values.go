@@ -8,8 +8,8 @@ import (
 	"time"
 
 	simple "github.com/bitly/go-simplejson"
-	"github.com/jet-config/reader"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/reader"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type jsonValues struct {

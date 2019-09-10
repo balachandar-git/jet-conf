@@ -1,9 +1,9 @@
 package config
 
 import (
-	"github.com/jet-config/loader"
-	"github.com/jet-config/reader"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/loader"
+	"github.com/balachandar-git/jet-config/reader"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 // WithLoader sets the loader for manager config

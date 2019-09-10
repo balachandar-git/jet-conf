@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jet-config/source/file"
+	"github.com/balachandar-git/jet-config/source/file"
 )
 
 func createFileForTest(t *testing.T) *os.File {

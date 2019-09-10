@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/micro/cli"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 	"github.com/micro/go-micro/cmd"
 )
 

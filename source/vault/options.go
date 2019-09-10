@@ -3,7 +3,7 @@ package vault
 import (
 	"context"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type addressKey struct{}

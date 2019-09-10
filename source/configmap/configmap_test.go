@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/jet-config"
+	"github.com/balachandar-git/jet-config"
 )
 
 func TestGetClient(t *testing.T) {

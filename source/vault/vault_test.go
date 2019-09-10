@@ -3,7 +3,7 @@ package vault
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/jet-config"
+	"github.com/balachandar-git/jet-config"
 	"os"
 	"reflect"
 	"strings"

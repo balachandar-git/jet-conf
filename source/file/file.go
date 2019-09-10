@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type file struct {

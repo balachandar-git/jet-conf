@@ -3,8 +3,8 @@ package grpc
 import (
 	"time"
 
-	"github.com/jet-config/source"
-	proto "github.com/jet-config/source/grpc/proto"
+	"github.com/balachandar-git/jet-config/source"
+	proto "github.com/balachandar-git/jet-config/source/grpc/proto"
 )
 
 func toChangeSet(c *proto.ChangeSet) *source.ChangeSet {

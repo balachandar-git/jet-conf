@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 	cetcd "go.etcd.io/etcd/clientv3"
 	"go.etcd.io/etcd/mvcc/mvccpb"
 )

@@ -4,7 +4,7 @@ package configmap
 import (
 	"fmt"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 	v1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/client-go/kubernetes"
 )

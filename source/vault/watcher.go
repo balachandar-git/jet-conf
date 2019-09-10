@@ -3,7 +3,7 @@ package vault
 import (
 	"errors"
 	"github.com/hashicorp/vault/api"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type watcher struct {

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/hashicorp/consul/api"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 // Currently a single consul reader

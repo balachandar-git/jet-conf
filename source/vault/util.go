@@ -2,7 +2,7 @@ package vault
 
 import (
 	"fmt"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 	"net"
 	"net/url"
 	"strings"

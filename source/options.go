@@ -3,8 +3,8 @@ package source
 import (
 	"context"
 
-	"github.com/jet-config/encoder"
-	"github.com/jet-config/encoder/json"
+	"github.com/balachandar-git/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder/json"
 )
 
 type Options struct {

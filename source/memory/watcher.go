@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type watcher struct {

@@ -3,7 +3,7 @@ package url
 import (
 	"errors"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type urlWatcher struct {

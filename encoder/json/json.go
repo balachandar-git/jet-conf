@@ -3,7 +3,7 @@ package json
 import (
 	"encoding/json"
 
-	"github.com/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder"
 )
 
 type jsonEncoder struct{}

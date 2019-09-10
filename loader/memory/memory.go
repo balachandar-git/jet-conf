@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jet-config/loader"
-	"github.com/jet-config/reader"
-	"github.com/jet-config/reader/json"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/loader"
+	"github.com/balachandar-git/jet-config/reader"
+	"github.com/balachandar-git/jet-config/reader/json"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type memory struct {

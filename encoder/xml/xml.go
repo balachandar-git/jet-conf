@@ -3,7 +3,7 @@ package xml
 import (
 	"encoding/xml"
 
-	"github.com/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder"
 )
 
 type xmlEncoder struct{}

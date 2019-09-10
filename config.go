@@ -4,10 +4,10 @@ package config
 import (
 	"context"
 
-	"github.com/jet-config/loader"
-	"github.com/jet-config/reader"
-	"github.com/jet-config/source"
-	"github.com/jet-config/source/file"
+	"github.com/balachandar-git/jet-config/loader"
+	"github.com/balachandar-git/jet-config/reader"
+	"github.com/balachandar-git/jet-config/source"
+	"github.com/balachandar-git/jet-config/source/file"
 )
 
 // Config is an interface abstraction for dynamic configuration

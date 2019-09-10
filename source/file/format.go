@@ -3,7 +3,7 @@ package file
 import (
 	"strings"
 
-	"github.com/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder"
 )
 
 func format(p string, e encoder.Encoder) string {

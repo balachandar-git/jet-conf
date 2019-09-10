@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/jet-config/reader"
+	"github.com/balachandar-git/jet-config/reader"
 )
 
 type value struct{}

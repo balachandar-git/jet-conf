@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 func TestEnv_Read(t *testing.T) {

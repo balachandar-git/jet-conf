@@ -4,7 +4,7 @@ import (
 	"bytes"
 
 	"github.com/BurntSushi/toml"
-	"github.com/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder"
 )
 
 type tomlEncoder struct{}

@@ -5,8 +5,8 @@ import (
 	"crypto/tls"
 	"google.golang.org/grpc/credentials"
 
-	"github.com/jet-config/source"
-	proto "github.com/jet-config/source/grpc/proto"
+	"github.com/balachandar-git/jet-config/source"
+	proto "github.com/balachandar-git/jet-config/source/grpc/proto"
 	"google.golang.org/grpc"
 )
 

@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"github.com/imdario/mergo"
-	"github.com/jet-config/encoder"
-	"github.com/jet-config/encoder/json"
-	"github.com/jet-config/reader"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder/json"
+	"github.com/balachandar-git/jet-config/reader"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 type jsonReader struct {

@@ -4,8 +4,8 @@ package loader
 import (
 	"context"
 
-	"github.com/jet-config/reader"
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/reader"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 // Loader manages loading sources

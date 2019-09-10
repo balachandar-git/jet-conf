@@ -3,7 +3,7 @@ package etcd
 import (
 	"strings"
 
-	"github.com/jet-config/encoder"
+	"github.com/balachandar-git/jet-config/encoder"
 	"go.etcd.io/etcd/clientv3"
 	"go.etcd.io/etcd/mvcc/mvccpb"
 )

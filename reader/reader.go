@@ -4,7 +4,7 @@ package reader
 import (
 	"time"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 )
 
 // Reader is an interface for merging changesets

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 	v12 "k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/fields"
 	"k8s.io/client-go/kubernetes"

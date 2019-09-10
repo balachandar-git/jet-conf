@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/jet-config/source"
+	"github.com/balachandar-git/jet-config/source"
 	"gocloud.dev/runtimevar"
 )
 
